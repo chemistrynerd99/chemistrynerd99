@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning java, and how to mod minecraft
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: you cant unless you have me on discord already
-- 😄 Pronouns: He/They
 - ⚡ Fun fact: Im good at redstone in minecraft
 
 <!---
